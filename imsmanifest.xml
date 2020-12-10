@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5j4q0SP3cRw_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Inbetriebnahme STORETEQ </langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Inbetriebnahme_STORETEQ__ORG">
+    <organization identifier="Inbetriebnahme_STORETEQ__ORG">
+      <title>Inbetriebnahme STORETEQ </title>
+      <item identifier="Trainingsvorlage_SCO" isvisible="true" identifierref="__5j4q0SP3cRw_course_id_RES">
+        <title>Inbetriebnahme STORETEQ </title>
+        <adlcp:masteryscore>60</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5j4q0SP3cRw_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="mobile/6aYoNxqtyj5_DX2880_DY2880_CX2048_CY1536.png" />
+      <file href="mobile/6fG6LZDWCML_DX272_DY272_CX136_CY57.png" />
+      <file href="mobile/5hS3yHatLLR_B10_DX420_DY420_CX314_CY132.png" />
+      <file href="mobile/6VWBpoJ2Ka6_DX302_DY302_CX136_CY151.png" />
+      <file href="mobile/6S22xrfcUFd_DX3604_DY3604_CX1920_CY1080.jpg" />
+      <file href="mobile/5hS3yHatLLR_B10_DX430_DY430_CX322_CY135.png" />
+      <file href="mobile/6IOfduI2lWR_DX150_DY150_CX112_CY112.png" />
+      <file href="mobile/6IOfduI2lWR_B10_DX150_DY150_CX112_CY112.png" />
+      <file href="mobile/6WuPTvc9b80_DX890_DY890_CX666_CY667.png" />
+      <file href="mobile/65MAr7zgVNH_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5g0E4tMTH02_B10_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/60YLdC1xcHr_DX3604_DY3604_CX1920_CY1080.png" />
+      <file href="mobile/6IDInXYKwa4_DX322_DY322_CX100_CY161.png" />
+      <file href="mobile/63EWOql2uqa_P_160_16_1920_1080_DX3690_DY3690_CX1920_CY1080.png" />
+      <file href="mobile/6lqm2cKSSF6_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6lqm2cKSSF6_B10_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6aYoNxqtyj5_DX4096_DY4096_CX2048_CY1536.png" />
+      <file href="mobile/6M1bw7OM1tC_DX298_DY298_CX211_CY210.png" />
+      <file href="mobile/5roEMRpb2uB_DX432_DY432_CX324_CY136.png" />
+      <file href="mobile/6DeXoYunbnm_B10_DX430_DY430_CX322_CY135.png" />
+      <file href="mobile/6IDInXYKwa4_DX230_DY230_CX100_CY161.png" />
+      <file href="story_content/video_6QWpFQy4vlE_0_56_1920x1080.mp4" />
+      <file href="mobile/poster_6fJP8xsuFKF_video_6QWpFQy4vlE_0_56_1920x1080.jpg" />
+      <file href="mobile/6CFAmby12HK_DX110_DY110_CX82_CY82.png" />
+      <file href="mobile/5g0E4tMTH02_DX110_DY110_CX82_CY82.png" />
+      <file href="mobile/6MIGBQzu9es_DX580_DY580_CX433_CY229.jpg" />
+      <file href="mobile/6bhK7yxLsj3_DX186_DY186_CX93_CY92.png" />
+      <file href="mobile/5e3Ifs9xFsy_DX186_DY186_CX93_CY92.png" />
+      <file href="story_content/video_65oZ6UKE025_0_56_1920x1080.mp4" />
+      <file href="mobile/poster_6g5eOESVYKd_video_65oZ6UKE025_0_56_1920x1080.jpg" />
+      <file href="mobile/5yXfBxkBdTF_DX582_DY582_CX433_CY229.jpg" />
+      <file href="story_content/video_5zzrmH5zMZm_0_56_1920x1080.mp4" />
+      <file href="mobile/poster_5zTj5HSvIUz_video_5zzrmH5zMZm_0_56_1920x1080.jpg" />
+      <file href="mobile/6LtZyxygRGw_DX582_DY582_CX432_CY229.jpg" />
+      <file href="story_content/video_6YSTsl6XuZr_0_56_1920x1080.mp4" />
+      <file href="mobile/poster_5wB6lRsd0B8_video_6YSTsl6XuZr_0_56_1920x1080.jpg" />
+      <file href="mobile/6cpzUhT9s2Y_DX582_DY582_CX432_CY229.jpg" />
+      <file href="story_content/video_5n23XSUbxQi_0_56_1920x1080.mp4" />
+      <file href="mobile/poster_6KVhyooeXxk_video_5n23XSUbxQi_0_56_1920x1080.jpg" />
+      <file href="mobile/6UmIReuGabh_DX582_DY582_CX434_CY229.jpg" />
+      <file href="story_content/video_6HrtAt1MGBx_0_56_1920x1080.mp4" />
+      <file href="mobile/poster_5V8BxURB5BC_video_6HrtAt1MGBx_0_56_1920x1080.jpg" />
+      <file href="mobile/63rxSasliFp_DX580_DY580_CX434_CY244.jpg" />
+      <file href="story_content/video_5wg1IOtADl6_0_56_1920x1080.mp4" />
+      <file href="mobile/poster_5VCcUVH57Zj_video_5wg1IOtADl6_0_56_1920x1080.jpg" />
+      <file href="mobile/62Nq3ziJgpN_DX580_DY580_CX433_CY229.jpg" />
+      <file href="meta.xml" />
+      <file href="mobile/6eOD8K2t0ah.png" />
+      <file href="story_content/63MqiQp8T34.png" />
+      <file href="story_content/6VUwIt6cM91.png" />
+      <file href="story_content/6MvwBKfZh2D.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/14_Lagerplätze_anlegen_definieren.pdf" />
+      <file href="story_content/external_files/Aufstellplan.pdf" />
+      <file href="story_content/external_files/1_Handbedienflasche_Anleitung.pdf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5sllEmSQlQj.js" />
+      <file href="html5/data/js/5yMlIxE1gxR.js" />
+      <file href="html5/data/js/66FbZkcaY2w.js" />
+      <file href="html5/data/js/6R3CQ950Kwt.js" />
+      <file href="html5/data/js/6WI41aMJEgx.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
